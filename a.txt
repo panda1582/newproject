@@ -1,1 +1,16 @@
 arknlawiojkrwearj.tqet
+libcrypto-3-x64.dll
+secur32.dll
+rasadhlp.dll
+fwpuclnt.dll
+schannel.dll
+apphelp.dll
+mskeyprotect.dll
+twinui.dll
+pdh.dll
+ondemandconnroutehelper.dll
+dpapi.dll
+urlmon.dll
+wininet.dll
+uxtheme.dll
+cryptnet.dll

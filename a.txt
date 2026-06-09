@@ -16,5 +16,5 @@ uxtheme.dll
 cryptnet.dll
 wininet.dll
 Oleacc.dll
-apphelp.dll
 DSPARSE.dll
+
